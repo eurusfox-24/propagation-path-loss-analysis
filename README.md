@@ -1,4 +1,6 @@
-# RF Planning Studio: Wireless Link Evaluation
+# Wireless Link Budget & Propagation Analysis
+> A MATLAB-based evaluation of 868 MHz link feasibility, analyzing the impacts of Fresnel zone clearance, path loss exponents, and antenna geometry.
+
 
 ## Objective
 This project evaluates a wireless link at **868 MHz** by modifying key design parameters in a MATLAB environment. The goal is to observe how antenna height, gain, environmental factors, and obstacle positioning affect link feasibility.
